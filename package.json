@@ -1,5 +1,5 @@
 {
-  "name": "hisoka-morou",
+  "name": "GallzBot",
   "version": "3.0.1",
   "description": "WhatsApp Bot Using Lib whatsapp-web.js",
   "main": "index.js",
@@ -23,8 +23,8 @@
   },
   "homepage": "https://github.com/DikaArdnt/Hisoka-Morou",
   "author": {
-    "name": "Dika Ardnt.",
-    "email": "dika.ardianta7@yahoo.com",
+    "name": "Gallehs",
+    "email": "Gallehs@gmail.com",
     "url": "https://github.com/DikaArdnt"
   },
   "license": "GPL-3.0-or-later",
