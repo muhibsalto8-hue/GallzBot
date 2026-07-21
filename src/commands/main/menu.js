@@ -51,7 +51,7 @@ export default {
                 teks += `└───────⭓\n\n`
             }).join('\n\n')
 
-            hisoka.sendMessage(m.from, 'https://dafunda.com/wp-content/uploads/2021/01/Karakter-Hunter-x-Hunter-Yang-Kuat-Menurut-Hisoka.jpg', {
+            hisoka.sendMessage(m.from, 'https://imgur.com/a/Np3epjO', {
                 caption: teks,
                 quoted: m,
                 mentions: hisoka.parseMention(teks),
@@ -59,7 +59,7 @@ export default {
                     ctwaContext: {
                         title: hisoka.info.pushname,
                         sourceUrl: 'https://instagram.com/cak_haho',
-                        thumbnail: (await Func.getFile('https://dafunda.com/wp-content/uploads/2021/01/Karakter-Hunter-x-Hunter-Yang-Kuat-Menurut-Hisoka.jpg')).data.toString('base64'),
+                        thumbnail: (await Func.getFile('https://imgur.com/a/Np3epjO')).data.toString('base64'),
                         mediaType: 1
                     }
                 }
