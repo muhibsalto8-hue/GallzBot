@@ -45,15 +45,15 @@ export default {
    options: {
       public: true,
       URI: "database.json", // use mongo or file json
-      owner: ["6288292024190", "62858156631709"],
+      owner: ["6289663117070"],
       pathCommand: 'commands'
    },
 
    Exif: {
       packId: "https://instagram.com/cak_haho",
       packName: `Sticker ini Dibuat Oleh :`,
-      packPublish: "Dika Ardnt.",
-      packEmail: "dika.ardianta7@yahoo.com",
+      packPublish: "Gallzbot.",
+      packEmail: "gallzbot@gmail.com",
       packWebsite: "https://instgaram.com/cak_haho",
       androidApp: "https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro",
       iOSApp: "https://apps.apple.com/id/app/muslim-pro-al-quran-adzan/id388389451?|=id",
@@ -63,7 +63,7 @@ export default {
 
    session: {
       Path: "session",
-      Name: "hisoka"
+      Name: "Gallehs"
    }
 }
 
