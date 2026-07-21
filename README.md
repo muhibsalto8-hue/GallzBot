@@ -2,7 +2,7 @@
 
 <img width="500" src="https://dafunda.com/wp-content/uploads/2021/01/Karakter-Hunter-x-Hunter-Yang-Kuat-Menurut-Hisoka.jpg">
 
-<br> Hisoka Bot
+<br> Gallehs Bot
  
  > This script is run using the whatsapp-web.js library and uses puppeteer
  
@@ -13,7 +13,7 @@
 ## [![JavaScript](https://img.shields.io/badge/JavaScript-d6cc0f?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com) [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
  
 </h1>
-<h4 align="center">Hisoka Morou</h4>
+<h4 align="center">GallzBot</h4>
 
 
 <!-- Installation -->
@@ -74,8 +74,3 @@ node index.js
 ## License
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)    
 `[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)`
-
-
-## Support
-* [`PayPal`](https://www.paypal.me/Cakhaho)
-* [`Saweria`](https://saweria.co/DikaArdnt)
